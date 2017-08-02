@@ -6,6 +6,7 @@ h3, img, ul, .animalinformation, .interestingfacts, .description, .card {
     margin: 5px;
     padding: 5px;
     color: white;
+    text-shadow: 0 0 2px #000;
 }
 
 h3 {
