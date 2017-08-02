@@ -9,8 +9,9 @@ h3, img, ul, .animalinformation, .interestingfacts, .description, .card {
 }
 
 h3 {
+    background-color: #107896;
+    color: white;
     text-align: center;
-    color: blue;
     border-spacing: 0;
 }
 
