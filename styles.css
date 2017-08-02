@@ -1,26 +1,31 @@
+h3, img, ul, .animalinformation, .interestingfacts, .description, .card {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: gray;
+    margin: 5px;
+    padding: 5px;
+
+}
+
+img {
+    display:block;
+    margin:auto;
+}
+
 ul {
     list-style-type: none;
-    margin: 0; padding: 0;
 }
 
 .card {
-    font-family: "Times New Roman", Times, serif;
-    background-color: goldenrod;
-    border-style: solid;
-    border-color: goldenrod;
-    border-width: 1px;
-    width: 300px;
-    padding: 15px;
-    box-shadow: 5px 5px 3px 3px rgba(220,220,220,0.75);
-    border-radius: 15px;
+    background: linear-gradient(to bottom right, gold, goldenrod);
+    border-radius: 10px;
+    width: 360px;
+    box-shadow: 5px 5px 3px 3px gainsboro;
 }
 
 .animalinformation {
-    border-style: solid;
-    border-width: 1px;
-    border-color: #DCDCDC;
-    padding: 10px;
-    border-radius: 15px;
+
 }
 
 .interestingfacts {
@@ -32,5 +37,5 @@ ul {
 }
 
 .description {
-    text-align: justify;
+/*    text-align: justify;*/
 }
