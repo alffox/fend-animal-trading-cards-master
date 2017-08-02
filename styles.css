@@ -5,7 +5,7 @@ h3, img, ul, .animalinformation, .interestingfacts, .description, .card {
     border-color: black;
     margin: 5px;
     padding: 5px;
-    color: black;
+    color: white;
 }
 
 h3 {
@@ -26,6 +26,7 @@ img {
 ul {
     list-style-type: none;
     border-width: 1px;
+    background-color: #107896;
 }
 
 .card {
@@ -42,6 +43,7 @@ ul {
 .interestingfacts {
     font-style: italic;
     border-width: 1px;
+    background-color: #107896;
 }
 
 .listitem {
@@ -50,4 +52,5 @@ ul {
 
 .description {
     border-width: 1px;
+    background-color: #107896;
 }
