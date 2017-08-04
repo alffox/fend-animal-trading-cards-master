@@ -1,4 +1,4 @@
-h3, img, ul, .animalinformation, .interestingfacts, .description, .card {
+h3, img, ul, .animal-information, .interesting-facts, .description, .card {
     border-style: solid;
     border-width: 2px;
     border-radius: 5px;
@@ -29,7 +29,7 @@ img {
     box-shadow: 5px 5px 3px 3px gainsboro;
 }
 
-.interestingfacts {
+.interesting-facts {
     font-style: italic;
 }
 
@@ -41,7 +41,7 @@ ul {
     font-weight: bold;
 }
 
-.interestingfacts, ul, .description {
+.interesting-facts, ul, .description {
     background-color: #107896;
     color: white;
     border-width: 1px;
