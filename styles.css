@@ -5,10 +5,8 @@ ul,
 .interesting-facts,
 .description,
 .card {
-    border-style: solid;
-    border-width: 2px;
+    border: 2px solid black;
     border-radius: 5px;
-    border-color: black;
     margin: 5px;
     padding: 5px;
     color: white;
